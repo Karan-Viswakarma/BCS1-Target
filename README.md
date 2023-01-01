@@ -1,4 +1,5 @@
 # Target SQL Business Case Study
+## To analyze the data of a general merchandise retailer, Target and to  generate insights from it. 
 Target is one of the world’s most recognized brands and one of America’s leading 
 retailers. Target makes itself a preferred shopping destination by offering 
 outstanding value, inspiration, innovation, and an exceptional guest experience that 
